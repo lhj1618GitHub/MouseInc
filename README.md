@@ -2,11 +2,15 @@
 
 鼠标手势-自定义手势功能-含 OCR
 
-内 MouseInc.Settings.zip 文件为离线界面包，无需解压
+内 MouseInc.Settings.zip 文件为离线界面包，无需解压；
+
+界面开源地址：https://github.com/shuax/MouseInc.Settings
 
 如果你还没有webview2，前往这里下载：
 
 https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
+
+使用手册：https://docs.shuax.com/MouseInc/
 
 功能开关1：
 <img width="1186" height="793" alt="image" src="https://github.com/user-attachments/assets/58560339-ac82-4a3b-b3d4-407505c157b7" />
