@@ -1,6 +1,6 @@
 # MouseInc
 
-鼠标手势-自定义手势功能-含 OCR
+鼠标手势-自定义编写手势功能-含 OCR；贴图：win系统功能；
 
 内 MouseInc.Settings.zip 文件为离线界面包，无需解压；
 
